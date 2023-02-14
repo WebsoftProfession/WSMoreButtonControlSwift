@@ -1,0 +1,16 @@
+PODS:
+  - WSMoreButtonControlSwift (0.1.0)
+
+DEPENDENCIES:
+  - WSMoreButtonControlSwift (from `../`)
+
+EXTERNAL SOURCES:
+  WSMoreButtonControlSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSMoreButtonControlSwift: a5851da69390eef9330ca05b102d2bc6cc330991
+
+PODFILE CHECKSUM: d5de6c69b0286f8072bd4fa7082eadc0762aca1f
+
+COCOAPODS: 1.11.3

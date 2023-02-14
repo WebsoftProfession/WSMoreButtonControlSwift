@@ -1,0 +1,6 @@
+framework module WSMoreButtonControlSwift {
+  umbrella header "WSMoreButtonControlSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
