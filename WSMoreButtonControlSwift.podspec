@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'An animated more button. Just assign the class to view and enjoy.'
+  s.description      = 'An animated more button. Just assign the class to view and enjoy. Configure some properties as mentioned in example project.'
 
   s.homepage         = 'https://github.com/WebsoftProfession/WSMoreButtonControlSwift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
